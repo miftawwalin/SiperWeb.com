@@ -1,1 +1,2 @@
-<?php include 'login.php'?>
+<?php include 'login.php';
+include 'logout.php'?>
